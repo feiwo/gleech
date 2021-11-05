@@ -4,4 +4,3 @@ hachoir
 Pillow
 pySmartDL
 tgcrypto
-git+https://github.com/FaArIsH/youtube-dl
